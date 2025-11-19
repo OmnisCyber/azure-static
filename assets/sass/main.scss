@@ -69,3 +69,10 @@
 	@import 'layout/main';
 	@import 'layout/footer';
 	@import 'layout/navPanel';
+<style>
+  body {
+    background: url('images/grape_software2.jpg') no-repeat center center;
+    background-size: contain;
+    background-color: transparent;
+  }
+</style>
